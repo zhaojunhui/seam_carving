@@ -1,0 +1,3 @@
+/Users/xzwkl/Desktop/大二下/图形学/seam_carving/CMakeFiles/edit_cache.dir
+/Users/xzwkl/Desktop/大二下/图形学/seam_carving/CMakeFiles/rebuild_cache.dir
+/Users/xzwkl/Desktop/大二下/图形学/seam_carving/CMakeFiles/main.dir
